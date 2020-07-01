@@ -1,0 +1,5 @@
+sample:
+  name: Boot VOLTEER
+tests:
+  sample.board.volteer:
+    tags: board
